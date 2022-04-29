@@ -8,3 +8,4 @@
 
 첫 번째 수정 (develop 브랜치에서 issue/2 브랜치 생성)
 두 번째 수정 (develop 브랜치에서 issue/2/1 브랜치 생성)
+세 번째 수정 (develop 브랜치에서 issue/2/2 브랜치 생성)
